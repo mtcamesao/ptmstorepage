@@ -1,0 +1,25 @@
+{
+    "available": [
+        {
+            "id": 1,
+            "name": "Donator Membership",
+            "price": 500,
+            "imgName": "purge_spawn_cropped.png",
+            "desc": "Donator Membership - Includes all unique perks"
+        },
+        {
+            "id": 2,
+            "name": "Donator Membership",
+            "price": 1000,
+            "imgName": "purge_spawn_cropped.png",
+            "desc": "Donator Membership - Includes all unique perks"
+        },
+        {
+            "id": 3,
+            "name": "Donator Membership",
+            "price": 550,
+            "imgName": "purge_spawn_cropped.png",
+            "desc": "Donator Membership - Includes all unique perks"
+        }
+    ]
+}
